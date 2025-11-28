@@ -162,6 +162,8 @@ Dados fictícios foram criados para simular um ambiente real de academia
 
 👩‍💻 7. Autoria
 
-Projeto desenvolvido por Larissa Oliveira
+Projeto desenvolvido por Larissa Oliveira  
+
 Disciplina: Banco de Dados – Atividade 4 (DML)
+
 Curso: Análise e Desenvolvimento de Sistemas
