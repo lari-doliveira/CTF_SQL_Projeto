@@ -3,14 +3,14 @@ Criação e Manipulação de Dados com SQL (DML)
 
 Este repositório contém todos os scripts SQL desenvolvidos para o projeto de um Centro de Treinamento Físico, conforme solicitado na Atividade 4 da disciplina de Banco de Dados.
 O projeto abrange criação de tabelas, povoamento do banco, consultas, atualizações e exclusões, seguindo o modelo lógico criado na Atividade 3.
+ 
+### 📁 Conteúdos do Repositório
 
-📁 /CTF_SQL_Projeto
-│
-├── create_tables.sql        → Criação completa das tabelas do banco
-├── inserts.sql              → Inserção de dados fictícios e coerentes
-├── select_queries.sql       → Consultas SELECT (básicas + avançadas)
-├── updates_deletes.sql      → Comandos UPDATE e DELETE
-└── README.md                → Documentação do projeto
+- `create_tables.sql` – Criação completa das tabelas do banco
+- `inserts.sql` – Inserção de dados fictícios e coerentes
+- `select_queries.sql` – Consultas `SELECT` (básicas + avançadas)
+- `updates_deletes.sql` – Comandos `UPDATE` e `DELETE`
+- `README.md` – Documentação do projeto
 
 🧱 1. Mini-Mundo do Projeto
 
